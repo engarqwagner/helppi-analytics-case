@@ -1,4 +1,4 @@
-# Importa a biblioteca pandas para manipulação de dados
+# Importa a biblioteca pandas para manipulação de dados.
 import pandas as pd
 
 # Importa numpy para operações numéricas e controle de aleatoriedade
