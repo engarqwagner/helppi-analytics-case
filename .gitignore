@@ -1,1 +1,9 @@
+# Ambiente
 .env
+
+# Python
+__pycache__/
+*.pyc
+
+# Power BI
+*.pbix
