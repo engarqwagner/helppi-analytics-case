@@ -1,4 +1,4 @@
---- Receita por plano
+--- 1 Receita por plano 
 CREATE VIEW vw_receita_por_plano as
 select
     plano,
@@ -8,7 +8,7 @@ FROM dim_clientes
 where status = 'Ativo'
 GROUP BY plano;
 
---- SLA medio por serviço
+--- 2 SLA medio por serviço
 CREATE VIEW vw_sla_servico AS
 select
     categoria,
@@ -16,7 +16,7 @@ select
 FROM fato_atendimentos
 GROUP BY categoria;
 
---- NPS medio por serviço
+--- 3 NPS medio por serviço
 CREATE VIEW vw_nps_servico AS
 select
     categoria,
