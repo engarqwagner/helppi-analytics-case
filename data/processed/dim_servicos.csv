@@ -1,0 +1,9 @@
+id_servico,nome_servico,categoria,custo_medio,preco_venda
+1,Assistência Residencial,Residencial,120,167.96131725260958
+2,Assistência Automotiva,Automotivo,180,315.1872982624738
+3,Telemedicina,Saúde,40,70.02850446746402
+4,Psicologia Online,Saúde,70,113.57865093214794
+5,Clube de Descontos,Benefícios,10,17.832233586083724
+6,Assistência Pet,Pet,90,133.02504721681655
+7,Seguro Celular,Seguro,60,80.51849280958191
+8,Consultoria Jurídica,Jurídico,110,194.75304275332067
